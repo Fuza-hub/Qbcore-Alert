@@ -4,4 +4,4 @@
 # Fr: C'est un simple script qui permet de créer une alerte différente de celles trouvées sur YouTube
 
 - Previews
- https://streamable.com/zysom1
+![video](https://streamable.com/zysom1)
